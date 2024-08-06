@@ -1,0 +1,300 @@
+{"text":"Issue with networking configuration on Ubuntu","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Quick Start Guide\n\nFollow these steps to get started quickly","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Bug in the data processing module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improper formatting in the user manual","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Implement new feature for user login","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# API Documentation\n\nDetails of the RESTful API endpoints","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Crash when opening the settings page","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Missing sections in the installation guide","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the performance of the search feature","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Configuration Guide\n\nInstructions to configure the application","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"# Contributing Guidelines\n\nHow to contribute to the project","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Unexpected error when uploading a file","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more examples to the tutorial","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Update dependency versions in the project","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Release Notes\n\nChangelog for version 1.2.3","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Inconsistent behavior in the login module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Typos in the quick start guide","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the error handling for API requests","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# FAQ\n\nFrequently Asked Questions","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Memory leak in the data analysis module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the architecture diagram","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"# Style Guide\n\nCoding standards and best practices","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Slow performance when loading the dashboard","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Clarify the steps in the upgrade guide","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the user interface responsiveness","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# User Manual\n\nComprehensive guide for end-users","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the broken links in the documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"# Installation Instructions\n\nStep-by-step guide to install the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve security for the authentication module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add table of contents to the documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Issue with the database connection timeout","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the list of supported platforms","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the logging mechanism for better debugging","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Guide\n\nDetailed instructions for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the typos in the error messages","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Refactor the codebase to improve readability","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the API reference documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"# Code of Conduct\n\nGuidelines for contributing to the project","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Optimize the database queries for better performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more details to the troubleshooting section","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the layout issues in the mobile view","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Changelog\n\nList of changes in each release","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Update the system requirements documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Address the vulnerabilities reported by the security team","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Getting Started Guide\n\nInstructions to get started with the project","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the data validation checks","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the screenshots in the documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with session management","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more examples to the API documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the test coverage for critical modules","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Upgrade Guide\n\nSteps to upgrade from previous versions","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the encoding issues in the exported files","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add diagrams to explain the architecture","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the accessibility features","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Maintenance Guide\n\nHow to maintain the system","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the inconsistency in the data format","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the list of dependencies","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the configuration options","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Troubleshooting Guide\n\nHow to troubleshoot common issues","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the pagination issue in the table view","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Clarify the licensing terms","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the scalability of the application","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Performance Guide\n\nOptimize the performance of the system","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the notification system","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the API endpoint documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the user feedback mechanism","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Deployment Guide\n\nSteps to deploy the application","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the memory usage issue","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more use cases to the documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Update the build instructions","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the session timeout settings","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Migration Guide\n\nSteps to migrate from older versions","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with file uploads","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the data synchronization process","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add a glossary to the documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Update the integration guide","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Optimize the code for better performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Architecture Guide\n\nDetailed description of the system architecture","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with API rate limiting","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more troubleshooting tips","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the mobile app performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Best Practices\n\nRecommended best practices for development","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the cross-browser compatibility issues","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more detailed explanations to the documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Update the installation instructions for Windows","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the API error messages","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Security Guide\n\nBest practices for securing the application","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the search functionality","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more examples to the usage guide","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the logging for better debugging","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Contribution Guide\n\nHow to contribute to the project","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the user profile module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the API usage examples","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the UI for better user experience","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Reference Guide\n\nDetailed reference for the system components","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with data export","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more details to the API documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the error handling mechanism","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Handbook\n\nComprehensive guide for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the layout issues on the homepage","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the user guide with latest features","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Optimize the backend services for performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Installation Guide\n\nSteps to install the software on different platforms","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with email notifications","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the load time of the application","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# API Reference\n\nDetailed description of the API endpoints","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the caching issue in the application","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more code examples to the documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the security features","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# User Guide\n\nInstructions for using the application","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with user authentication","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the database schema","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the release notes with new features","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"# Configuration Manual\n\nSteps to configure the system","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with real-time data updates","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the data import process","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# System Architecture\n\nDetailed description of the architecture","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with user permissions","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more detailed instructions to the guide","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the report generation feature","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Maintenance Manual\n\nHow to maintain the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the dashboard widgets","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the performance of the data processing module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Documentation\n\nGuidelines and references for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the payment processing module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the documentation with recent changes","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the scalability of the backend services","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# User Onboarding Guide\n\nSteps to onboard new users","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with data synchronization","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Enhance the search functionality","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# API Documentation\n\nDetailed guide for API usage","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the user settings module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the user guide with more examples","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Optimize the front-end code for performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# System Requirements\n\nRequirements to run the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with data export functionality","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more detailed diagrams to the documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the user notification system","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Guide\n\nDetailed guide for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with API response time","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the API documentation with latest changes","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the system logging mechanism","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# User FAQ\n\nFrequently asked questions","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the data visualization module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more examples to the API reference","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the user profile management","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Troubleshooting Manual\n\nSteps to resolve common issues","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with real-time notifications","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the test cases for better coverage","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Code of Conduct\n\nGuidelines for community behavior","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the search index","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the system architecture documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the performance of the search feature","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Security Manual\n\nBest practices for system security","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the registration module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more use cases to the documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Optimize the API calls for better performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Installation Instructions\n\nDetailed steps to install the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the analytics dashboard","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Enhance the data encryption methods","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# System Overview\n\nHigh-level overview of the system","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with user role management","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the developer guide with more details","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the reporting features","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Deployment Manual\n\nSteps to deploy the application","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the user dashboard","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the application security","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# User Documentation\n\nComprehensive guide for users","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the data import feature","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Enhance the system performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# API User Guide\n\nHow to use the API","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the feedback module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the API documentation with new endpoints","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the error handling in the system","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Manual\n\nComprehensive guide for development","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the data export","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more examples to the user guide","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the UI for better user interaction","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Reference Manual\n\nDetailed reference for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with user permissions","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the API guide with latest changes","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the system performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Installation Guide\n\nSteps to install the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the authentication module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Enhance the system monitoring tools","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# API Reference\n\nDetails of the API endpoints","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the notification system","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the developer documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the data validation","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# User Guide\n\nHow to use the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with file uploads","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Enhance the API response time","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Documentation\n\nGuidelines for development","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the user management module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the user manual with new features","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the data processing speed","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Configuration Guide\n\nSteps to configure the system","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the data synchronization","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Enhance the user authentication process","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# System Documentation\n\nComprehensive guide for system usage","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the data export module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the API reference with examples","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the backend performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Guidelines\n\nHow to contribute to the project","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the reporting module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Add more use cases to the documentation","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the data security measures","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Installation Manual\n\nSteps to install the application","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the analytics module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the data handling process","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# User Reference\n\nDetailed reference for users","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the API module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the API documentation with new features","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the logging mechanism","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Guide\n\nDetailed instructions for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the data import","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the user guide with more details","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the user interface design","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# System Reference\n\nComprehensive guide for the system","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with user roles","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the API usage examples","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the system efficiency","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Configuration Manual\n\nDetailed steps to configure the system","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the data export","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Enhance the system security","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Documentation\n\nDetailed reference for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the notification module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the installation guide with new steps","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the data processing algorithm","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# User Manual\n\nComprehensive guide for users","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with file upload","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Enhance the API functionality","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Manual\n\nGuidelines for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the data import process","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the developer guide with new sections","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the system performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Installation Guide\n\nSteps to install the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the analytics module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Enhance the data export functionality","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# User Documentation\n\nComprehensive guide for users","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the API response","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the API reference with new endpoints","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the system performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Configuration Guide\n\nSteps to configure the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the data processing module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Enhance the user interface for better experience","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Reference\n\nDetailed guide for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the user authentication","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the API documentation with examples","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the performance of the data processing module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Installation Instructions\n\nSteps to install the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the notification system","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the user guide with new examples","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the system performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Guidelines\n\nGuidelines for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the data synchronization module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the API performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# System Documentation\n\nComprehensive guide for system usage","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the user management module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the documentation with new features","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the system logging","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Manual\n\nComprehensive guide for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the data import process","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the user guide with more details","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the API functionality","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Installation Manual\n\nSteps to install the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the analytics module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the data export process","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# User Documentation\n\nComprehensive guide for using the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the API","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the API reference with new features","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Improve the system performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Configuration Guide\n\nSteps to configure the system","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the data synchronization","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Enhance the user interface for better experience","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Reference\n\nDetailed reference for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with user authentication","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the API documentation with more examples","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the performance of the system","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Installation Instructions\n\nSteps to install the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the notification module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the user guide with new examples","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the system performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Guidelines\n\nGuidelines for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the data synchronization module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the API performance","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# System Documentation\n\nComprehensive guide for system usage","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the user management module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the documentation with new features","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the system logging","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Developer Manual\n\nComprehensive guide for developers","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the data import process","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the user guide with more details","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Enhance the API functionality","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# Installation Manual\n\nSteps to install the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the issue with the analytics module","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Improve the data export process","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"# User Documentation\n\nComprehensive guide for using the software","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
+{"text":"Fix the bug in the API","cats":{"DOCUMENTATION":0.0,"OTHER":1.0}}
+{"text":"Update the API reference with new features","cats":{"DOCUMENTATION":1.0,"OTHER":0.0}}
