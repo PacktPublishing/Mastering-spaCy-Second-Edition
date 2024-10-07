@@ -12,4 +12,5 @@ Mastering spaCy, Second Edition published by Packt
 |08| Training a NER Component with Your Own Data | [Chapter 08](chapter_08/chapter_08.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Mastering-spaCy-Second-Edition./blob/main/chapter_08/chapter_08.ipynb) | 
 |09| Creating End-to-End spaCy Workflows with Weasel | [Chapter 09](chapter_09/chapter_09.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Mastering-spaCy-Second-Edition./blob/main/chapter_09/chapter_09.ipynb) | 
 |10| Training an Entity Linker Model with spaCy | [Chapter 10](chapter_10/) | - | 
+|11| Integrating spaCy with Third-Party Libraries | [Chapter 11](chapter_11/) | - | 
 
