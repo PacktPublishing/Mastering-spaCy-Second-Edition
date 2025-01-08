@@ -5,6 +5,7 @@ Mastering spaCy, Second Edition published by Packt
 
 |No.| Chapter | Notebook | Colab |
 |:--| :-------- | :-------- | :-------: |
+|01| Getting Started with spaCy | [Chapter 01](chapter_01/chapter_01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Mastering-spaCy-Second-Edition./blob/main/chapter_01/chapter_01.ipynb) | 
 |02| Core Operations with spaCy | [Chapter 02](chapter_02/chapter_02.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Mastering-spaCy-Second-Edition./blob/main/chapter_02/chapter_02.ipynb) | 
 |03| Extracting Linguistic Features | [Chapter 03](chapter_03/chapter_03.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Mastering-spaCy-Second-Edition./blob/main/chapter_03/chapter_03.ipynb) | 
 |04| Mastering Rule-Based Matching | [Chapter 04](chapter_04/chapter_04.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Mastering-spaCy-Second-Edition./blob/main/chapter_04/chapter_04.ipynb) | 
