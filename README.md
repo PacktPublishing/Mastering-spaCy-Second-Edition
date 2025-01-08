@@ -5,6 +5,7 @@ Mastering spaCy, Second Edition published by Packt
 
 |No.| Chapter | Notebook | Colab |
 |:--| :-------- | :-------- | :-------: |
+|03| Extracting Linguistic Features | [Chapter 03](chapter_04/chapter_03.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Mastering-spaCy-Second-Edition./blob/main/chapter_03/chapter_03.ipynb) | 
 |04| Mastering Rule-Based Matching | [Chapter 04](chapter_04/chapter_04.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Mastering-spaCy-Second-Edition./blob/main/chapter_04/chapter_04.ipynb) | 
 |05| Extracting Semantic Representations with spaCy Pipelines | [Chapter 05](chapter_05/chapter_05.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Mastering-spaCy-Second-Edition./blob/main/chapter_05/chapter_05.ipynb) | 
 |06| Utilizing spaCy with Transformers | [Chapter 06](chapter_06/chapter_06.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Mastering-spaCy-Second-Edition./blob/main/chapter_06/chapter_06.ipynb) | 
