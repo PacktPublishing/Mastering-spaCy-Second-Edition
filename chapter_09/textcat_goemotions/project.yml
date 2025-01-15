@@ -18,15 +18,18 @@ directories: ["assets", "training", "configs", "metrics", "packages", "scripts",
 
 # Assets that should be downloaded or available in the directory.
 assets:
-  - dest: "assets/train.jsonl"
-    url: "https://raw.githubusercontent.com/PacktPublishing/Mastering-spaCy-Second-Edition/refs/heads/main/chapter_09/data/train.jsonl"
-    description: ""
-  - dest: "assets/dev.jsonl"
-    url: "https://raw.githubusercontent.com/PacktPublishing/Mastering-spaCy-Second-Edition/refs/heads/main/chapter_09/data/train.jsonl"
-    description: ""
-  - dest: "assets/eval.jsonl"
-    url: "https://raw.githubusercontent.com/PacktPublishing/Mastering-spaCy-Second-Edition/refs/heads/main/chapter_09/data/eval.jsonl"
-    description: ""
+  - dest: "assets/categories.txt"
+    url: "https://raw.githubusercontent.com/google-research/google-research/master/goemotions/data/emotions.txt"
+    description: "The categories to train"
+  - dest: "assets/train.tsv"
+    url: "https://raw.githubusercontent.com/google-research/google-research/master/goemotions/data/train.tsv"
+    description: "The training data"
+  - dest: "assets/dev.tsv"
+    url: "https://raw.githubusercontent.com/google-research/google-research/master/goemotions/data/dev.tsv"
+    description: "The development data"
+  - dest: "assets/test.tsv"
+    url: "https://raw.githubusercontent.com/google-research/google-research/master/goemotions/data/test.tsv"
+    description: "The test data"
   # Uncomment this asset if you want to download the vectors.
   #- dest: "assets/vectors.zip"
   #  url: "https://dl.fbaipublicfiles.com/fasttext/vectors-english/crawl-300d-2M.vec.zip"
@@ -58,11 +61,12 @@ commands:
   - name: preprocess
     help: "Convert the corpus to spaCy's format"
     script:
-      - "python3 scripts/convert_corpus.py"
+      - "python scripts/convert_corpus.py"
     deps:
-      - "assets/train.jsonl"
-      - "assets/dev.jsonl"
-      - "assets/test.jsonl"
+      - "assets/train.tsv"
+      - "assets/dev.tsv"
+      - "assets/test.tsv"
+      - "assets/categories.txt"
     outputs_no_cache:
       - "corpus/train.spacy"
       - "corpus/dev.spacy"
@@ -101,7 +105,7 @@ commands:
   - name: visualize
     help: Visualize the model's output interactively using Streamlit
     script:
-      - "streamlit run scripts/visualize_model.py training/${vars.config}/model-best \"I’m sorry to hear that friend :(\""
+      - "streamlit run scripts/visualize_model.py training/${vars.config}/model-best \"I'm sorry to hear that friend :(\""
     deps:
       - "scripts/visualize_model.py"
       - "training/${vars.config}/model-best"

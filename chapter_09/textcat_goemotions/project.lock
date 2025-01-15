@@ -1,0 +1,58 @@
+preprocess:
+  cmd: python -m weasel run preprocess
+  script:
+    - python scripts/convert_corpus.py
+  deps:
+    - path: assets/train.tsv
+      md5: 83a206cc5aa2fa9749ee45675f866d03
+    - path: assets/dev.tsv
+      md5: 8820aa4fd13c5dee1b55c2893aad1232
+    - path: assets/test.tsv
+      md5: 8c3482a12f52ff56429a5d178257be09
+    - path: assets/categories.txt
+      md5: e0e6d342e661e202e3a0f241db907512
+  outs:
+    - path: corpus/train.spacy
+      md5: 420a5ab526217b071916975ff3f63a32
+    - path: corpus/dev.spacy
+      md5: 33decfe76bd881fdac1c30416abca59f
+    - path: corpus/test.spacy
+      md5: 4fdb61886bf3f99e0be3d9a214676fea
+train:
+  cmd: python -m weasel run train
+  script:
+    - python -m spacy train ./configs/cnn.cfg -o training/cnn --gpu-id -1
+  deps:
+    - path: corpus/train.spacy
+      md5: 420a5ab526217b071916975ff3f63a32
+    - path: corpus/dev.spacy
+      md5: 33decfe76bd881fdac1c30416abca59f
+    - path: configs/cnn.cfg
+      md5: 355f25016635711c924c6ccf2f18bb5e
+  outs:
+    - path: training/cnn/model-best
+      md5: ebb06bcf5954e74f73cab45774ce987a
+evaluate:
+  cmd: python -m weasel run evaluate
+  script:
+    - python -m spacy evaluate ./training/cnn/model-best ./corpus/test.spacy --output
+      ./metrics/cnn.json
+  deps:
+    - path: training/cnn/model-best
+      md5: ebb06bcf5954e74f73cab45774ce987a
+    - path: corpus/test.spacy
+      md5: 4fdb61886bf3f99e0be3d9a214676fea
+  outs:
+    - path: metrics/cnn.json
+      md5: 20862b48ec47a6ef56085eaf6d6922c0
+package:
+  cmd: python -m weasel run package
+  script:
+    - python -m spacy package ./training/cnn/model-best packages/ --name textcat_goemotions
+      --force --version 0.0.1 --build wheel --meta-path meta.json
+  deps:
+    - path: training/cnn/model-best
+      md5: ebb06bcf5954e74f73cab45774ce987a
+  outs:
+    - path: packages/textcat_goemotions-0.0.1/dist/textcat_goemotions-0.0.1.tar.gz
+      md5: null
