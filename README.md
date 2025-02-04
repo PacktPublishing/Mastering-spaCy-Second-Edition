@@ -1,6 +1,8 @@
 # Mastering spaCy Second Edition
 
-This is the code repository for [Mastering spaCy Second Edition](), published by Packt.
+<a href="https://www.packtpub.com/en-us/product/mastering-spacy-9781835880463"><img src="https://content.packt.com/B22441/cover_image.jpg" alt="no-image" height="256px" align="right"></a>
+
+This is the code repository for [Mastering spaCy Second Edition](https://www.packtpub.com/en-us/product/mastering-spacy-9781835880463), published by Packt.
 
 **Build structured NLP solutions with custom components and models powered by spacy-llm**
 
@@ -16,7 +18,7 @@ This book covers the following exciting features:
 * Train domain-specific models, including NER and coreference resolution
 * Prototype rapidly with spaCy-LLM and develop custom LLM tasks
 
-If you feel this book is for you, get your [copy]() today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/Mastering-spaCy-structured-solutions-components/dp/B0DVCBRFZX/ref=sr_1_1?crid=D7V9PR1A2EZF&dib=eyJ2IjoiMSJ9.m_RTfomi5hxb7NXTRT9rQGdMm7ZpXYa4eNfYzA_gH5o5aibSYi05-qBVc2bmQ_VPmfYkQGmMx3E9IHP9MVpBhCHZ55TFPXDb5aIwVcoHwuUlsF2EImlOLyKG2pP9Z8emshM7jyzbho3qyC-jZRMDAt-8XsupG5YlOv_l1bh6_xQkKiFLsmUy_7DefM-SSCKI.Hg74WInz-_ZsHRH1X53I3-pUmbxzvJi6h-vwpLS-58s&dib_tag=se&keywords=mastering+spacy&qid=1738648186&sprefix=mastering+spacy%2Caps%2C388&sr=8-1) today!
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
